@@ -127,7 +127,6 @@ ul, ol { padding-left: 1.2em; }
 .hero h1 {
   font-size: clamp(2.2rem, 5vw, 3.4rem);
   margin-bottom: 20px;
-  margin-right: 10px;
 }
 .accent { color: var(--accent); }
 .lede {
